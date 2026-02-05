@@ -1,6 +1,8 @@
 # CS4050 Lab 1: Graph Representations at Scale
-`/github/release/angrynarwhal/4050-Lab-1?sort=semvar`
+/github/release/angrynarwhal/4050-Lab-1?sort=semvar
+
 Place all of your submission documents in the [./lab1_submission_folder](./lab1_submission/). You will submit a zip file of that directory in Canvas. 
+
 ## Overview
 
 This lab explores the **practical performance differences** between adjacency matrix and adjacency list graph representations. Rather than just learning the theoretical complexities, you will:

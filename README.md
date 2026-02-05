@@ -10,7 +10,7 @@ This lab explores the **practical performance differences** between adjacency ma
 4. **Experience** where each representation succeeds and fails
 5. **Understand** why representation choice matters in real systems
 
-If you are curious about the use of OO, classes, polymorphism, and overloading of methods in the Pythonic example, and its corrallaries in C, you can read up on that in [./polymorphism-overloading.md](this file.). 
+If you are curious about the use of OO, classes, polymorphism, and overloading of methods in the Pythonic example, and its corrallaries in C, you can read up on that in [This File](./polymorphism-overloading.md). 
 
 
 

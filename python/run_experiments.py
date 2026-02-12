@@ -221,7 +221,8 @@ def print_comparison_table(results: list):
         matrix_eq = r['matrix'].get('edge_queries_per_sec', 0) if not r['matrix'].get('skipped') else 0
         
         if matrix_eq > 0:
-            speedup = f"{matrix_eq/list_eq:.1f}x"
+            if list_eq > 0:
+                speedup = f"{matrix_eq/list_eq:.1f}x"
         else:
             speedup = "N/A"
         
